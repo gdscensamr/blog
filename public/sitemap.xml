@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://exhugoample.org/posts/my-first-post/</loc>
+    <loc>https://gdscensamr.github.io/blog/posts/my-first-post/</loc>
     <lastmod>2022-11-01T15:31:54+01:00</lastmod>
   </url><url>
-    <loc>http://exhugoample.org/</loc>
+    <loc>https://gdscensamr.github.io/blog/</loc>
     <lastmod>2022-11-01T15:31:54+01:00</lastmod>
   </url><url>
-    <loc>http://exhugoample.org/posts/</loc>
+    <loc>https://gdscensamr.github.io/blog/posts/</loc>
     <lastmod>2022-11-01T15:31:54+01:00</lastmod>
   </url><url>
-    <loc>http://exhugoample.org/categories/</loc>
+    <loc>https://gdscensamr.github.io/blog/categories/</loc>
   </url><url>
-    <loc>http://exhugoample.org/tags/</loc>
+    <loc>https://gdscensamr.github.io/blog/tags/</loc>
   </url>
 </urlset>
