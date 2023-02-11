@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on GDSC ENSAM Rabat Blog</title>
+    <link>http://exhugoample.org/posts/</link>
+    <description>Recent content in Posts on GDSC ENSAM Rabat Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Nov 2022 15:31:54 +0100</lastBuildDate><atom:link href="http://exhugoample.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>5 Essential Skills Every Google Developer Student Club Member Needs</title>
+      <link>http://exhugoample.org/posts/my-first-post/</link>
+      <pubDate>Tue, 01 Nov 2022 15:31:54 +0100</pubDate>
+      
+      <guid>http://exhugoample.org/posts/my-first-post/</guid>
+      <description>Joining a Google Developer Student Club can be an exciting opportunity to learn new skills, network with other tech enthusiasts, and gain real-world experience. But what are the essential skills every club member should have? In this blog post, we&amp;rsquo;ll discuss the top five skills you need to make the most of your time at the Google Developer Student Club at ENSAM Rabat.
+1. Programming Basics Whether you&amp;rsquo;re a beginner or have some programming experience, it&amp;rsquo;s important to have a solid understanding of the basics.</description>
+    </item>
+    
+  </channel>
+</rss>
