@@ -1,4 +1,4 @@
-baseURL = 'http://www.gdscensamr.github.io/blog/'
+baseURL = 'https://gdscensamr.github.io/blog/'
 languageCode = 'en-us'
 title = 'GDSC ENSAM Rabat Blog'
 theme = "paper"
